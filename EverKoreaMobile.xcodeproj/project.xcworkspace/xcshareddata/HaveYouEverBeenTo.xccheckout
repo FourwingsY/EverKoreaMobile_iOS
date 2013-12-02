@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C2C316C9-A2C0-43D6-BFF4-A906AF18F1AA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HaveYouEverBeenTo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>718ABFFA-8EDE-4612-A401-410A277DEDCF</key>
+		<string>https://github.com/FourwingsY/HaveYouEverBeenTo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HaveYouEverBeenTo/HaveYouEverBeenTo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>718ABFFA-8EDE-4612-A401-410A277DEDCF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/FourwingsY/HaveYouEverBeenTo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>718ABFFA-8EDE-4612-A401-410A277DEDCF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>718ABFFA-8EDE-4612-A401-410A277DEDCF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Project</string>
+		</dict>
+	</array>
+</dict>
+</plist>
